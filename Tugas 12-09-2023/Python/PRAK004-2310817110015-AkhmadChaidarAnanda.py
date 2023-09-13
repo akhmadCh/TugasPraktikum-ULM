@@ -1,0 +1,6 @@
+print("#########################")
+print("#                       #")
+print("# Akhmad Chaidar Ananda #")
+print("#   2310817110015       #")
+print("#                       #")
+print("#########################")
